@@ -1,14 +1,16 @@
-# Project
+# Developer Experience Day
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Developer Experience Day is a half-day event showcasing Microsoft’s Developer Experience solutions. Dive into GitHub’s advanced features, such as Copilot and Codespaces, and Azure’s productivity services, including Azure Dev Box and Deployment Environments. 
 
-As the maintainer of this project, please make a few updates:
+Learn how to use these tools to streamline your development process, reduce developer toil, and unlock your productivity. 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+| Time | Length | Section |
+| -------- | -------- | -------- |
+| 8:00 AM | 10 min | Introduction |
+| 8:10 AM | 90 min | Scenario 1​ - A day in the life of a new developer at Contoso learning the code base and trying to fix a security hole |
+| 9:40 AM | 10 min | Break |
+| 9:50 AM | 90 min | Scenario 2​ - Another day in the life of the developer using developer enablement tools to streamline submitting a pull request and building/deploying a change |
+| 11:20 AM | 5 min | Conclusion |
 
 ## Contributing
 
