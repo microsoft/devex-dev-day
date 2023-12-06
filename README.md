@@ -1,3 +1,5 @@
+<img src="./media/devexday-banner.png" width="800" />
+
 # Developer Experience Day
 
 Developer Experience Day is a half-day event showcasing Microsoft’s Developer Experience solutions. Dive into GitHub’s advanced features, such as Copilot and Codespaces, and Azure’s productivity services, including Azure Dev Box and Deployment Environments. 
