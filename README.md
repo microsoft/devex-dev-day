@@ -1,4 +1,4 @@
-<img src="./media/devexday-banner.png" width="800" />
+<img src="./media/devexday-banner.png" width="820" />
 
 # Developer Experience Day
 
@@ -9,9 +9,9 @@ Learn how to use these tools to streamline your development process, reduce deve
 | Time | Length | Section |
 | -------- | -------- | -------- |
 | 8:00 AM | 10 min | Introduction |
-| 8:10 AM | 90 min | Scenario 1​ - A day in the life of a new developer at Contoso learning the code base and trying to fix a security hole |
+| 8:10 AM | 90 min | Scenario 1​ - A day in the life of a new developer at Contoso learning the code base and trying to fix a security hole <br /> [Template and Source Code Repository](https://github.com/joelwaymack/dev-ex-demo) |
 | 9:40 AM | 10 min | Break |
-| 9:50 AM | 90 min | Scenario 2​ - Another day in the life of the developer using developer enablement tools to streamline submitting a pull request and building/deploying a change |
+| 9:50 AM | 90 min | Scenario 2​ - Another day in the life of the developer using developer enablement tools to streamline submitting a pull request and building/deploying a change <br /> [Templates, Scripts and Source Code Repository](https://github.com/embergershared/dev-ex-app) |
 | 11:20 AM | 5 min | Conclusion |
 
 ## Contributing
