@@ -1,4 +1,4 @@
-<img src="./media/devexday-banner.png" width="820" />
+<img src="./media/devexday-banner.png" width="830" />
 
 # Developer Experience Day
 
